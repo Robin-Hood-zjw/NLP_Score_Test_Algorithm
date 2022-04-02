@@ -1,0 +1,29 @@
+review score category
+0 14.88 truthful
+1 3.33 truthful
+2 15.68 truthful
+3 4.43 truthful
+4 4.14 truthful
+5 11.29 truthful
+6 20.61 truthful
+7 -2.89 uncategorized
+8 2.71 uncategorized
+9 11.93 truthful
+10 0.03 uncategorized
+11 -13.06 deceptive
+12 -3.66 deceptive
+13 -8.46 deceptive
+14 5.18 truthful
+15 -18.68 deceptive
+16 -17.88 deceptive
+17 -21.61 deceptive
+18 -11.25 deceptive
+19 -15.08 deceptive
+
+Number of reviews: 20
+Number of truthful reviews: 9
+Number of deceptive reviews: 8
+Number of uncategorized reviews: 3
+
+Review with highest score: 6
+Review with lowest score: 17
